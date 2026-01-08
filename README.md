@@ -23,4 +23,4 @@ Consolidar minha base técnica em tecnologia e conquistar uma oportunidade de es
 - Python
 - GitHub
 
-📎 LinkedIn: (http://linkedin.com/in/arianfrs))
+📎 LinkedIn: (http://linkedin.com/in/arianfrs)
